@@ -1,0 +1,22 @@
+# Robots.txt for mayyanks.app — Mayank Sharma Portfolio
+# https://www.robotstxt.org/
+
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+
+# Sitemaps
+Sitemap: https://mayyanks.app/sitemap.xml
+
+# Crawl-delay (optional, for polite crawling)
+Crawl-delay: 1
+
+# Google-specific
+User-agent: Googlebot
+Allow: /
+Disallow: /node_modules/
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Disallow: /node_modules/
