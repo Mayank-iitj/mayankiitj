@@ -4,12 +4,12 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://mayyanks.app/</loc>
+    <loc>https://mayankiitj.in/</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://mayyanks.app/pfpsuit.jpg</image:loc>
+      <image:loc>https://mayankiitj.in/pfpsuit.jpg</image:loc>
       <image:title>Mayank Sharma — AI and Data Systems Engineer</image:title>
       <image:caption>Mayank Sharma, AI and Data Systems Engineer from IIT Jodhpur</image:caption>
     </image:image>
@@ -17,35 +17,35 @@
 
   <!-- Section deep links for SPA-like navigation -->
   <url>
-    <loc>https://mayyanks.app/#about</loc>
+    <loc>https://mayankiitj.in/#about</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://mayyanks.app/#journey</loc>
+    <loc>https://mayankiitj.in/#journey</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://mayyanks.app/#expertise</loc>
+    <loc>https://mayankiitj.in/#expertise</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://mayyanks.app/#projects</loc>
+    <loc>https://mayankiitj.in/#projects</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://mayyanks.app/#faq</loc>
+    <loc>https://mayankiitj.in/#faq</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
